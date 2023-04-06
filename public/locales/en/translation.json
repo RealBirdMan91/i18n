@@ -1,0 +1,10 @@
+{
+  "learn": "Learning i18n",
+  "description": "Lets learn something new, <strong>that</strong> is awesome",
+  "interpol": "what {{is}} this",
+  "plural": {
+    "apple_zero": "No Apple HAHAHA",
+    "apple_one": "One Apple HAHAHA",
+    "apple_other": "{{count}} Apples HAHAHA"
+  }
+}

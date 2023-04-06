@@ -1,0 +1,27 @@
+{
+  "blog_en": {
+    "posts": [
+      {
+        "title": "englisch title yaaaaiii =)",
+        "body": "stuff is working? <strong>woaaah</strong>"
+      },
+      {
+        "title": "zwei Post Englisch",
+        "body": "stuff2 auch in englisch"
+      }
+    ]
+  },
+
+  "blog_de": {
+    "posts": [
+      {
+        "title": "Title hier in Deutsch",
+        "body": "hack Germany"
+      },
+      {
+        "title": "zwei Post Deutsch",
+        "body": "stuff2 auf crautz"
+      }
+    ]
+  }
+}

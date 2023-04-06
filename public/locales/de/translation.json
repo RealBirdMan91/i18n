@@ -1,0 +1,10 @@
+{
+  "learn": "i18n Lernen yai!!!!",
+  "description": "<strong>yesssss</strong> auch neu für mich =) ",
+  "interpol": "was {{is}} das",
+  "plural": {
+    "apple_zero": "Kein Apfel HAHAHA",
+    "apple_one": "Ein Apfel HAHAHA",
+    "apple_other": "{{count}} Äpfel HAHAHA"
+  }
+}
